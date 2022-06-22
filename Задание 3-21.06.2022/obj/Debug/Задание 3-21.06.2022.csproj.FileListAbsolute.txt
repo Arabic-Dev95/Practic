@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Задание 3-21.06.2022\bin\Debug\Задание 3-21.06.2022.exe.config
+C:\Users\user\Desktop\Задание 3-21.06.2022\bin\Debug\Задание 3-21.06.2022.exe
+C:\Users\user\Desktop\Задание 3-21.06.2022\bin\Debug\Задание 3-21.06.2022.pdb
+C:\Users\user\Desktop\Задание 3-21.06.2022\obj\Debug\Задание 3-21.06.2022.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Задание 3-21.06.2022\obj\Debug\Задание_3_21._06._2022.Form1.resources
+C:\Users\user\Desktop\Задание 3-21.06.2022\obj\Debug\Задание_3_21._06._2022.Properties.Resources.resources
+C:\Users\user\Desktop\Задание 3-21.06.2022\obj\Debug\Задание 3-21.06.2022.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Задание 3-21.06.2022\obj\Debug\Задание 3-21.06.2022.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Задание 3-21.06.2022\obj\Debug\Задание 3-21.06.2022.exe
+C:\Users\user\Desktop\Задание 3-21.06.2022\obj\Debug\Задание 3-21.06.2022.pdb
