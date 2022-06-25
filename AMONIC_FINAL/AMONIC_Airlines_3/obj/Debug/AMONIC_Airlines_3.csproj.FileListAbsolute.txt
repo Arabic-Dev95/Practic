@@ -1,0 +1,174 @@
+C:\Users\user\source\repos\AMONIC_Airlines_3\AMONIC_Airlines_3\bin\Debug\AMONIC_Airlines_3.exe.config
+C:\Users\user\source\repos\AMONIC_Airlines_3\AMONIC_Airlines_3\bin\Debug\AMONIC_Airlines_3.exe
+C:\Users\user\source\repos\AMONIC_Airlines_3\AMONIC_Airlines_3\bin\Debug\AMONIC_Airlines_3.pdb
+C:\Users\user\source\repos\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\LoginPage.g.cs
+C:\Users\user\source\repos\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\App.g.cs
+C:\Users\user\source\repos\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3_MarkupCompile.cache
+C:\Users\user\source\repos\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3_MarkupCompile.lref
+C:\Users\user\source\repos\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\LoginPage.baml
+C:\Users\user\source\repos\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.g.resources
+C:\Users\user\source\repos\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.Properties.Resources.resources
+C:\Users\user\source\repos\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.csproj.GenerateResource.cache
+C:\Users\user\source\repos\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.exe
+C:\Users\user\source\repos\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.pdb
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\bin\Debug\AMONIC_Airlines_3.exe.config
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\bin\Debug\AMONIC_Airlines_3.exe
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\bin\Debug\AMONIC_Airlines_3.pdb
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.csprojAssemblyReference.cache
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\LoginPage.g.cs
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\MainWindow.g.cs
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\App.g.cs
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3_MarkupCompile.cache
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3_MarkupCompile.lref
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\LoginPage.baml
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\MainWindow.baml
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.g.resources
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.Properties.Resources.resources
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.csproj.GenerateResource.cache
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.csproj.CoreCompileInputs.cache
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.exe
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.pdb
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AdminPage.g.cs
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AdminPage.baml
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\bin\Debug\AMONIC_Airlines_3.exe.config
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\bin\Debug\AMONIC_Airlines_3.exe
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\bin\Debug\AMONIC_Airlines_3.pdb
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AdminPage.g.cs
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\LoginPage.g.cs
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\App.g.cs
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3_MarkupCompile.cache
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3_MarkupCompile.lref
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AdminPage.baml
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\LoginPage.baml
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.g.resources
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.Properties.Resources.resources
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.csproj.GenerateResource.cache
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.exe
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.pdb
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AddUserWindow.g.cs
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AddUserWindow.baml
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AddUserWindow.g.cs
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\ChangeWIndow.g.cs
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AddUserWindow.baml
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\ChangeWIndow.baml
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\ChangeWIndow.g.cs
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\ChangeWIndow.baml
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\UserPage.g.cs
+C:\Users\Arthas\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\UserPage.baml
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.csprojAssemblyReference.cache
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\UserPage.g.cs
+C:\Users\user\Desktop\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\UserPage.baml
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\bin\Debug\AMONIC_Airlines_3.exe.config
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\bin\Debug\AMONIC_Airlines_3.exe
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\bin\Debug\AMONIC_Airlines_3.pdb
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.csproj.AssemblyReference.cache
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AddUserWindow.g.cs
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AdminPage.g.cs
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\ChangeWIndow.g.cs
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\LoginPage.g.cs
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\MainWindow.g.cs
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\UserPage.g.cs
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\App.g.cs
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3_MarkupCompile.cache
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3_MarkupCompile.lref
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AddUserWindow.baml
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AdminPage.baml
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\ChangeWIndow.baml
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\LoginPage.baml
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\MainWindow.baml
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\UserPage.baml
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.g.resources
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.Properties.Resources.resources
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.csproj.GenerateResource.cache
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.csproj.CoreCompileInputs.cache
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.exe
+C:\Users\bansh\OneDrive\Рабочий стол\AMONIC_Airlines_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.pdb
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\bin\Debug\AMONIC_Airlines_3.exe.config
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\bin\Debug\AMONIC_Airlines_3.exe
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\bin\Debug\AMONIC_Airlines_3.pdb
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.csprojAssemblyReference.cache
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\obj\Debug\AddUserWindow.g.cs
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\obj\Debug\AdminPage.g.cs
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\obj\Debug\ChangeWIndow.g.cs
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\obj\Debug\LoginPage.g.cs
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\obj\Debug\UserPage.g.cs
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\obj\Debug\App.g.cs
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3_MarkupCompile.cache
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3_MarkupCompile.lref
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\obj\Debug\AddUserWindow.baml
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\obj\Debug\AdminPage.baml
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\obj\Debug\ChangeWIndow.baml
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\obj\Debug\LoginPage.baml
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\obj\Debug\UserPage.baml
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.g.resources
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.Properties.Resources.resources
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.csproj.GenerateResource.cache
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.exe
+C:\Users\user\Desktop\AMONIC_3\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.pdb
+I:\AMONIC_FINAL\AMONIC_Airlines_3\bin\Debug\AMONIC_Airlines_3.exe.config
+I:\AMONIC_FINAL\AMONIC_Airlines_3\bin\Debug\AMONIC_Airlines_3.exe
+I:\AMONIC_FINAL\AMONIC_Airlines_3\bin\Debug\AMONIC_Airlines_3.pdb
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.csproj.AssemblyReference.cache
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.csproj.SuggestedBindingRedirects.cache
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AddUserWindow.g.cs
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AdminPage.g.cs
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\ChangeWIndow.g.cs
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\LoginPage.g.cs
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\MainWindow.g.cs
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\UserPage.g.cs
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\App.g.cs
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3_MarkupCompile.cache
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3_MarkupCompile.lref
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AddUserWindow.baml
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AdminPage.baml
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\ChangeWIndow.baml
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\LoginPage.baml
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\MainWindow.baml
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\UserPage.baml
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.g.resources
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.Properties.Resources.resources
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.csproj.GenerateResource.cache
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.csproj.CoreCompileInputs.cache
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.exe
+I:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.pdb
+E:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.csprojAssemblyReference.cache
+E:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AddUserWindow.g.cs
+E:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AdminPage.g.cs
+E:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\ChangeWIndow.g.cs
+E:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\LoginPage.g.cs
+E:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\MainWindow.g.cs
+E:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\UserPage.g.cs
+E:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\App.g.cs
+E:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3_MarkupCompile.cache
+E:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3_MarkupCompile.lref
+E:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.exe
+E:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.pdb
+E:\AMONIC_FINAL\AMONIC_Airlines_3\bin\Debug\AMONIC_Airlines_3.exe.config
+E:\AMONIC_FINAL\AMONIC_Airlines_3\bin\Debug\AMONIC_Airlines_3.exe
+E:\AMONIC_FINAL\AMONIC_Airlines_3\bin\Debug\AMONIC_Airlines_3.pdb
+E:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AddUserWindow.baml
+E:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AdminPage.baml
+E:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\ChangeWIndow.baml
+E:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\LoginPage.baml
+E:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\MainWindow.baml
+E:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\UserPage.baml
+E:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.g.resources
+E:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.Properties.Resources.resources
+E:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.csproj.GenerateResource.cache
+E:\AMONIC_FINAL\AMONIC_Airlines_3\obj\Debug\AMONIC_Airlines_3.csproj.CoreCompileInputs.cache
