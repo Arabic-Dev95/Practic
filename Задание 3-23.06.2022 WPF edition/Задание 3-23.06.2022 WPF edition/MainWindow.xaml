@@ -1,0 +1,20 @@
+﻿<Window x:Class="Задание_3_23._06._2022_WPF_edition.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="B1" Content="Добавить число" HorizontalAlignment="Left" Margin="150,10,0,0" VerticalAlignment="Top" Width="103" Height="23" Click="B1_Click"/>
+        <TextBox x:Name="TBNum" HorizontalAlignment="Left" Height="23" Margin="258,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="238"/>
+        <Button x:Name="BSum" Content="Сумма" HorizontalAlignment="Left" Margin="150,38,0,0" VerticalAlignment="Top" Width="103" Height="23" Click="BSum_Click"/>
+        <Button x:Name="BRaz" Content="Разность" HorizontalAlignment="Left" Margin="150,66,0,0" VerticalAlignment="Top" Width="103" Height="23" Click="BRaz_Click"/>
+        <Button x:Name="BExit" Content="Выход" HorizontalAlignment="Left" Margin="150,122,0,0" VerticalAlignment="Top" Width="103" Height="23" Click="BExit_Click"/>
+        <ScrollViewer HorizontalAlignment="Left" Height="196" Margin="258,33,0,0" VerticalAlignment="Top" Width="238">
+            <Label x:Name="LB" Content=""/>
+        </ScrollViewer>
+        <Button x:Name="BClear" Content="Отчистить" HorizontalAlignment="Left" Margin="150,94,0,0" VerticalAlignment="Top" Width="103" Height="23" Click="BClear_Click"/>
+
+    </Grid>
+</Window>
