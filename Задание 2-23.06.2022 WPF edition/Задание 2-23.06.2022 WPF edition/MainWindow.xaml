@@ -1,0 +1,16 @@
+﻿<Window x:Class="Задание_2_23._06._2022_WPF_edition.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Задание_2_23._06._2022_WPF_edition"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="B1" Content="Свободная касса!" HorizontalAlignment="Left" Margin="86,34,0,0" VerticalAlignment="Top" Width="112" Height="36" Click="B1_Click"/>
+        <Label x:Name="LBCount" Content="Клиентов в очереди: " HorizontalAlignment="Left" Margin="203,34,0,0" VerticalAlignment="Top" Height="36" Width="157"/>
+        <Label x:Name="LBPlata" Content="Клиент заплатил: " HorizontalAlignment="Left" Margin="203,75,0,0" VerticalAlignment="Top" Width="157"/>
+        <Label x:Name="LBSchet" Content="Ваш счёт: " HorizontalAlignment="Left" Margin="203,106,0,0" VerticalAlignment="Top" Width="157"/>
+
+    </Grid>
+</Window>
