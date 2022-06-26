@@ -1,7 +1,0 @@
-C:\Users\Strel_000\source\repos\Задание 2-23.06.2022\Задание 2-23.06.2022\bin\Debug\Задание 2-23.06.2022.exe.config
-C:\Users\Strel_000\source\repos\Задание 2-23.06.2022\Задание 2-23.06.2022\bin\Debug\Задание 2-23.06.2022.exe
-C:\Users\Strel_000\source\repos\Задание 2-23.06.2022\Задание 2-23.06.2022\bin\Debug\Задание 2-23.06.2022.pdb
-C:\Users\Strel_000\source\repos\Задание 2-23.06.2022\Задание 2-23.06.2022\obj\Debug\Задание 2-23.06.2022.csprojAssemblyReference.cache
-C:\Users\Strel_000\source\repos\Задание 2-23.06.2022\Задание 2-23.06.2022\obj\Debug\Задание 2-23.06.2022.csproj.CoreCompileInputs.cache
-C:\Users\Strel_000\source\repos\Задание 2-23.06.2022\Задание 2-23.06.2022\obj\Debug\Задание 2-23.06.2022.exe
-C:\Users\Strel_000\source\repos\Задание 2-23.06.2022\Задание 2-23.06.2022\obj\Debug\Задание 2-23.06.2022.pdb
