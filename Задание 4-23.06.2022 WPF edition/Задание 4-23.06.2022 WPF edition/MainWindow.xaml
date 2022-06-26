@@ -1,0 +1,22 @@
+﻿<Window x:Class="Задание_4_23._06._2022_WPF_edition.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Задание_4_23._06._2022_WPF_edition"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ScrollViewer HorizontalAlignment="Left" Height="374" Margin="176,35,0,0" VerticalAlignment="Top" Width="606">
+            <Label x:Name="LBRes" Content=""/>
+        </ScrollViewer>
+        <Button x:Name="BSearch" Content="Поиск по фамилии:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="161" Click="BSearch_Click"/>
+        <Button x:Name="BAdd" Content="Добавить досье" HorizontalAlignment="Left" Margin="10,35,0,0" VerticalAlignment="Top" Width="161" Click="BAdd_Click"/>
+        <Button x:Name="BDelete" Content="Удалить досье:" HorizontalAlignment="Left" Margin="355,10,0,0" VerticalAlignment="Top" Width="161" Click="BDelete_Click"/>
+        <Button x:Name="BExit" Content="Выход" HorizontalAlignment="Left" Margin="10,85,0,0" VerticalAlignment="Top" Width="161" Click="BExit_Click"/>
+        <Button x:Name="BPrint" Content="Вывести все досье" HorizontalAlignment="Left" Margin="10,60,0,0" VerticalAlignment="Top" Width="161" Click="BPrint_Click"/>
+        <TextBox x:Name="TB" HorizontalAlignment="Left" Height="20" Margin="176,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="174"/>
+        <TextBox x:Name="TBD" HorizontalAlignment="Left" Height="20" Margin="521,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="174"/>
+
+    </Grid>
+</Window>

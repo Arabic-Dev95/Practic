@@ -1,0 +1,17 @@
+C:\Users\Strel_000\source\repos\Задание 4-23.06.2022 WPF edition\Задание 4-23.06.2022 WPF edition\bin\Debug\Задание 4-23.06.2022 WPF edition.exe.config
+C:\Users\Strel_000\source\repos\Задание 4-23.06.2022 WPF edition\Задание 4-23.06.2022 WPF edition\bin\Debug\Задание 4-23.06.2022 WPF edition.exe
+C:\Users\Strel_000\source\repos\Задание 4-23.06.2022 WPF edition\Задание 4-23.06.2022 WPF edition\bin\Debug\Задание 4-23.06.2022 WPF edition.pdb
+C:\Users\Strel_000\source\repos\Задание 4-23.06.2022 WPF edition\Задание 4-23.06.2022 WPF edition\obj\Debug\Задание 4-23.06.2022 WPF edition.csprojAssemblyReference.cache
+C:\Users\Strel_000\source\repos\Задание 4-23.06.2022 WPF edition\Задание 4-23.06.2022 WPF edition\obj\Debug\MainWindow.g.cs
+C:\Users\Strel_000\source\repos\Задание 4-23.06.2022 WPF edition\Задание 4-23.06.2022 WPF edition\obj\Debug\App.g.cs
+C:\Users\Strel_000\source\repos\Задание 4-23.06.2022 WPF edition\Задание 4-23.06.2022 WPF edition\obj\Debug\Задание 4-23.06.2022 WPF edition_MarkupCompile.cache
+C:\Users\Strel_000\source\repos\Задание 4-23.06.2022 WPF edition\Задание 4-23.06.2022 WPF edition\obj\Debug\Задание 4-23.06.2022 WPF edition_MarkupCompile.lref
+C:\Users\Strel_000\source\repos\Задание 4-23.06.2022 WPF edition\Задание 4-23.06.2022 WPF edition\obj\Debug\MainWindow.baml
+C:\Users\Strel_000\source\repos\Задание 4-23.06.2022 WPF edition\Задание 4-23.06.2022 WPF edition\obj\Debug\Задание 4-23.06.2022 WPF edition.g.resources
+C:\Users\Strel_000\source\repos\Задание 4-23.06.2022 WPF edition\Задание 4-23.06.2022 WPF edition\obj\Debug\Задание_4_23._06._2022_WPF_edition.Properties.Resources.resources
+C:\Users\Strel_000\source\repos\Задание 4-23.06.2022 WPF edition\Задание 4-23.06.2022 WPF edition\obj\Debug\Задание 4-23.06.2022 WPF edition.csproj.GenerateResource.cache
+C:\Users\Strel_000\source\repos\Задание 4-23.06.2022 WPF edition\Задание 4-23.06.2022 WPF edition\obj\Debug\Задание 4-23.06.2022 WPF edition.csproj.CoreCompileInputs.cache
+C:\Users\Strel_000\source\repos\Задание 4-23.06.2022 WPF edition\Задание 4-23.06.2022 WPF edition\obj\Debug\Задание 4-23.06.2022 WPF edition.exe
+C:\Users\Strel_000\source\repos\Задание 4-23.06.2022 WPF edition\Задание 4-23.06.2022 WPF edition\obj\Debug\Задание 4-23.06.2022 WPF edition.pdb
+C:\Users\Strel_000\source\repos\Задание 4-23.06.2022 WPF edition\Задание 4-23.06.2022 WPF edition\obj\Debug\Window1.g.cs
+C:\Users\Strel_000\source\repos\Задание 4-23.06.2022 WPF edition\Задание 4-23.06.2022 WPF edition\obj\Debug\Window1.baml
