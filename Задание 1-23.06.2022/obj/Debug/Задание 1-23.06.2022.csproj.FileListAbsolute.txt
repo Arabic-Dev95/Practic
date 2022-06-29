@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\Задание 1-23.06.2022\bin\Debug\Задание 1-23.06.2022.exe.config
+C:\Users\user\Desktop\Задание 1-23.06.2022\bin\Debug\Задание 1-23.06.2022.exe
+C:\Users\user\Desktop\Задание 1-23.06.2022\bin\Debug\Задание 1-23.06.2022.pdb
+C:\Users\user\Desktop\Задание 1-23.06.2022\obj\Debug\Задание 1-23.06.2022.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Задание 1-23.06.2022\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Задание 1-23.06.2022\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Задание 1-23.06.2022\obj\Debug\Задание 1-23.06.2022_MarkupCompile.cache
+C:\Users\user\Desktop\Задание 1-23.06.2022\obj\Debug\Задание 1-23.06.2022_MarkupCompile.lref
+C:\Users\user\Desktop\Задание 1-23.06.2022\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Задание 1-23.06.2022\obj\Debug\Задание 1-23.06.2022.g.resources
+C:\Users\user\Desktop\Задание 1-23.06.2022\obj\Debug\Задание_1_23._06._2022.Properties.Resources.resources
+C:\Users\user\Desktop\Задание 1-23.06.2022\obj\Debug\Задание 1-23.06.2022.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Задание 1-23.06.2022\obj\Debug\Задание 1-23.06.2022.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Задание 1-23.06.2022\obj\Debug\Задание 1-23.06.2022.exe
+C:\Users\user\Desktop\Задание 1-23.06.2022\obj\Debug\Задание 1-23.06.2022.pdb
+C:\Users\user\Practic\Задание 1-23.06.2022\bin\Debug\Задание 1-23.06.2022.exe.config
+C:\Users\user\Practic\Задание 1-23.06.2022\bin\Debug\Задание 1-23.06.2022.exe
+C:\Users\user\Practic\Задание 1-23.06.2022\bin\Debug\Задание 1-23.06.2022.pdb
+C:\Users\user\Practic\Задание 1-23.06.2022\obj\Debug\Задание 1-23.06.2022.csproj.AssemblyReference.cache
+C:\Users\user\Practic\Задание 1-23.06.2022\obj\Debug\MainWindow.g.cs
+C:\Users\user\Practic\Задание 1-23.06.2022\obj\Debug\App.g.cs
+C:\Users\user\Practic\Задание 1-23.06.2022\obj\Debug\Задание 1-23.06.2022_MarkupCompile.cache
+C:\Users\user\Practic\Задание 1-23.06.2022\obj\Debug\Задание 1-23.06.2022_MarkupCompile.lref
+C:\Users\user\Practic\Задание 1-23.06.2022\obj\Debug\MainWindow.baml
+C:\Users\user\Practic\Задание 1-23.06.2022\obj\Debug\Задание 1-23.06.2022.g.resources
+C:\Users\user\Practic\Задание 1-23.06.2022\obj\Debug\Задание_1_23._06._2022.Properties.Resources.resources
+C:\Users\user\Practic\Задание 1-23.06.2022\obj\Debug\Задание 1-23.06.2022.csproj.GenerateResource.cache
+C:\Users\user\Practic\Задание 1-23.06.2022\obj\Debug\Задание 1-23.06.2022.csproj.CoreCompileInputs.cache
+C:\Users\user\Practic\Задание 1-23.06.2022\obj\Debug\Задание 1-23.06.2022.exe
+C:\Users\user\Practic\Задание 1-23.06.2022\obj\Debug\Задание 1-23.06.2022.pdb
