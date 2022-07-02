@@ -1,0 +1,19 @@
+﻿<Window x:Class="Задание_3_30._06._2022.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Задание_3_30._06._2022"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ScrollViewer HorizontalAlignment="Left" Height="399" Margin="247,10,0,0" VerticalAlignment="Top" Width="535">
+            <Label x:Name="LB" Content=""/>
+        </ScrollViewer>
+        <Button x:Name="BSortFIO" Content="Сортировка по ФИО" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="232" Height="33" Click="BSortFIO_Click" />
+        <Button x:Name="BSortAge" Content="Сортировка по Возрасту" HorizontalAlignment="Left" Margin="10,48,0,0" VerticalAlignment="Top" Width="232" Height="33" Click="BSortAge_Click" />
+        <Button x:Name="BSearchDisease" Content="Поиск по заболеванию" HorizontalAlignment="Left" Margin="10,86,0,0" VerticalAlignment="Top" Width="232" Height="33" Click="BSearchDisease_Click" />
+        <TextBox x:Name="TB" HorizontalAlignment="Left" Height="23" Margin="10,124,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="232"/>
+
+    </Grid>
+</Window>
